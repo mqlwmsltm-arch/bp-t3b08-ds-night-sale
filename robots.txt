@@ -7,10 +7,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-User-agent: Yeti
-Allow: /
-
-User-agent: OAI-SearchBot
-Allow: /
-
-Sitemap: https://t3b08-ds-night-sale.pages.dev/sitemap.xml
+Sitemap: https://dangsan-club-hot.hardcoreroom.com/sitemap.xml
